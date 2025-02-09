@@ -26,4 +26,4 @@ Ce projet démontre la fusion de deux tables de données en utilisant la bibliot
 3. Voir le résultat dans `Fusion_Tables.csv`
 
 ## Auteur
-SYAN HILAIRE--BENAMOR (github.com/SyanCode)
+SYAN HILAIRE--BENAMOR ([github.com/SyanCode](github.com/SyanCode))
